@@ -23,9 +23,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ramwarhekar&color=7c3aed&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ramwarhekar?style=flat-square&color=6d28d9&label=Followers)
-![Stars](https://img.shields.io/github/stars/ramwarhekar?style=flat-square&color=8b5cf6&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=ramwarhekar02&color=7c3aed&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ramwarhekar02?style=flat-square&color=6d28d9&label=Followers)
+![Stars](https://img.shields.io/github/stars/ramwarhekar02?style=flat-square&color=8b5cf6&label=Stars)
 
 </div>
 
@@ -33,7 +33,7 @@
 
 ## ◈ About
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramwarhekar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2e8f0&langs_count=6" />
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramwarhekar02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2e8f0&langs_count=6" />
 
 Applied AI developer and final-year Computer Science student with **8+ months of combined production internship experience**, shipping AI-powered features inside live commercial products. I architect and deliver full-stack systems end-to-end — from database schema to deployed UI — with a deliberate emphasis on integrating large language models into real product workflows.
 
@@ -111,7 +111,7 @@ I approach software as a product discipline. Every system I ship is designed for
 | **AI Architecture** | Structured single-prompt returns: Summary → Errors → Complexity → Brute Force vs Optimal → Rewritten Code |
 | **UX** | ChatGPT-style multi-turn review panel with one-click Apply Fix; inline ghost-text per line |
 | **Impact** | Eliminates the need for Copilot or external AI extensions in a self-contained dev environment |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/ramwarhekar) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/ramwarhekar02) |
 
 CodeSense is built entirely without third-party AI SDKs. The suggestion engine uses a debounced real-time listener on Monaco Editor's cursor position to construct context-aware prompts that stream inline ghost-text completions character by character. The review pipeline uses a single structured prompt returning five distinct analysis sections, parsed and rendered independently in a persistent multi-turn panel. The architecture demonstrates deep understanding of token streaming, prompt structure, and editor API internals.
 
@@ -133,7 +133,7 @@ CodeSense is built entirely without third-party AI SDKs. The suggestion engine u
 | **Security** | JWT authentication; Redis session management; race-condition-safe state transitions |
 | **Architecture** | 14-state booking machine: `DRAFT → CONFIRMED → PARTNER_ASSIGNED → IN_TRANSIT → TRIP_COMPLETED` |
 | **Impact** | Production-complete booking platform demonstrating senior-level systems design solo |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/ramwarhekar) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/ramwarhekar02) |
 
 VehiMeet is the most architecturally complex project in this portfolio. The 14-state booking state machine handles concurrent booking requests with race-condition-safe transitions enforced at the database layer. ZEGOCLOUD Video KYC is integrated as a real-time verification gate inside the booking flow. MongoDB geospatial indexing powers partner proximity discovery. Every component — from auth middleware to real-time GPS emission — was designed and built without external scaffolding.
 
@@ -155,7 +155,7 @@ VehiMeet is the most architecturally complex project in this portfolio. The 14-s
 | **AI Architecture** | Prompt encodes both branch intent and conflict context; LLM reasons about semantic correctness, not syntax |
 | **UX** | Side-by-side Monaco diff view with one-click Accept per resolution block |
 | **Impact** | Reduces merge conflict resolution time from minutes of manual reasoning to seconds of AI-assisted decision |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/ramwarhekar) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/ramwarhekar02) |
 
 GitFix AI is a semantic merge conflict resolver, not a diff patcher. The prompt architecture encodes both the originating branch name and the full surrounding context of each conflict block, allowing the model to infer developer intent across diverging branches. The response structure includes a per-block resolution alongside a confidence score and plain-English rationale, presented in a side-by-side Monaco diff UI with atomic Accept/Reject controls.
 
