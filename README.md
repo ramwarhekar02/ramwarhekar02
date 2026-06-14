@@ -57,7 +57,7 @@ I approach software as a product discipline. Every system I ship is designed for
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=js,java,html,css&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=javascript,java,html,css&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
@@ -233,9 +233,9 @@ Delivered the complete frontend of PigoPi.com from zero to production. Achieved 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ramwarhekar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=7c3aed&text_color=e2e8f0&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ramwarhekar02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=7c3aed&text_color=e2e8f0&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ramwarhekar&theme=tokyonight&hide_border=true&background=0d0d0d&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=94a3b8" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ramwarhekar02&theme=tokyonight&hide_border=true&background=0d0d0d&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=94a3b8" />
 
 </div>
 
@@ -252,7 +252,7 @@ Delivered the complete frontend of PigoPi.com from zero to production. Achieved 
 
 <div align="center">
 
-![Snake animation](https://github.com/ramwarhekar/ramwarhekar/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/ramwarhekar02/ramwarhekar/blob/output/github-snake-dark.svg)
 
 </div>
 
