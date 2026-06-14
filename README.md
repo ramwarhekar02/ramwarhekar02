@@ -12,14 +12,14 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍%20Pune%2C%20Maharashtra-India-4f46e5?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/📍%20Nagpur%2C%20Maharashtra-India-4f46e5?style=flat-square&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ramwarhekar.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-warhekar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ram-warhekar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramwarhekar02/)
 [![Email](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramwarhekar02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramwarhekar)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramwarhekar02)
 
 <br/>
 
@@ -69,7 +69,7 @@ I approach software as a product discipline. Every system I ship is designed for
 
 **Cloud, DevOps & Tooling**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vercel,render,postman&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vercel,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -229,42 +229,6 @@ Delivered the complete frontend of PigoPi.com from zero to production. Achieved 
 
 ---
 
-## ◈ Certifications
-
-<div align="center">
-
-**Coursera / DeepLearning.AI**
-
-![ML](https://img.shields.io/badge/Machine%20Learning%20Specialization-0056d2?style=for-the-badge&logo=coursera&logoColor=white)
-![DL](https://img.shields.io/badge/Deep%20Learning%20Foundations-0056d2?style=for-the-badge&logo=coursera&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/Programming%20in%20Java-ff6900?style=for-the-badge&logo=oracle&logoColor=white)
-![NPTEL2](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-ff6900?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Cisco / Other**
-
-![Cisco](https://img.shields.io/badge/Networking%20Essentials-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white)
-![HackerRank](https://img.shields.io/badge/JavaScript%20%28Basic%29-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white)
-
-</div>
-
----
-
-## ◈ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ramwarhekar)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ramwarhekar)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ramwarhekar)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5b4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ramwarhekar)
-
-</div>
-
----
-
 ## ◈ GitHub Analytics
 
 <div align="center">
@@ -283,25 +247,6 @@ Delivered the complete frontend of PigoPi.com from zero to production. Achieved 
 
 ---
 
-## ◈ GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ramwarhekar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramwarhekar&theme=tokyo-night&bg_color=0d0d0d&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## ◈ Contribution Snake
 
@@ -344,9 +289,9 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/ramwarhekar02@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramwarhekar02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/ram--warhekar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-warhekar)
-[![GitHub](https://img.shields.io/badge/ramwarhekar-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramwarhekar)
-[![Portfolio](https://img.shields.io/badge/ramwarhekar.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ramwarhekar.dev)
+[![LinkedIn](https://img.shields.io/badge/ram--warhekar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramwarhekar02/)
+[![GitHub](https://img.shields.io/badge/ramwarhekar-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramwarhekar02)
+[![Portfolio](https://img.shields.io/badge/ramwarhekar.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ram-warhekar.vercel.app/)
 
 </div>
 
